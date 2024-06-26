@@ -1,0 +1,14 @@
+{
+  "name": "sususu",
+  "version": "1.0.0",
+  "description": "none",
+  "main": "aa.js",
+  "scripts": {
+    "test": "testa"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^9.5.0"
+  }
+}
